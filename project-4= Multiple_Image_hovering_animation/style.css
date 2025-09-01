@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+  
+
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    position: relative;
+}
+
+.elem{
+    /* background-color: rgb(255, 89, 0); */
+    height: 100px;
+    width: 100%;
+    border-bottom: 3px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+
+}
+
+.elem h1{
+    font-size: 4vw;
+    position: relative;
+    z-index: 9;
+    mix-blend-mode: difference;
+}
+
+.elem img {
+    height: 120px;
+    width: 180px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px;
+    position: absolute;
+    /* transform: translate(-50%, -50%); */
+    opacity: 0;
+    transition: all linear 0.2s ;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   
+  
+}
+
+
+
+
+
+
+
+
