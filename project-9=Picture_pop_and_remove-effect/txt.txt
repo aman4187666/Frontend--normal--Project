@@ -1,10 +1,1 @@
-ak div bnao aur jab uspe mouse chale to image pop ho and remove ho jay.
 
-throttling - mean kisi particular code ke no of excecution ko kam
-karna.
-
-
-
-har bar ek div banao 
-div ko absolute bano dk width and hieght do overflow hidden karo and div ke ander image bnao and us image ko neeche push krdo 
-image ko animated way me uper lao .
